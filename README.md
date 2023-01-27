@@ -3,4 +3,4 @@ interactive visualizations intended to help the Mass Ave Coalition in Boston con
 teammates by designing the project idea and goal, assigning and managing tasks, researching HTML and CSS to customize the webpage, writing the text for each section
 of the website, and constructing three of the four interactive visualizations through the use of Tableau and the Vega-Altair and Plotly visualizations libraries.
 
-Link to our website: 
+Link to our website: https://miahuebscher.github.io/ 
